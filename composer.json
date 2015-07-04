@@ -1,0 +1,14 @@
+{
+    "name": "eceon/skeleton-project",
+    "description": "Eceon Skeleton Project",
+    "license": "MIT",
+    "type": "project",
+    "keywords": ["eceon", "framework", "skeleton"],
+    "authors": [
+        {
+            "name": "Ted van Diepen",
+            "email": "t.v.diepen@mezio.nl",
+            "homepage": "http://www.mezio.nl/"
+        }
+    ]
+}
